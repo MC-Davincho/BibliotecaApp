@@ -8,7 +8,7 @@ package autonoma.biblioteca.models;
  *
  * @author Usuario
  */
-public class Persona {
+public class Persona  {
      private String nombre; 
      private String documentoIdentidad;
      private String correoElectronico; 
